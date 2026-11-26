@@ -1,6 +1,6 @@
 from django.conf import settings
-from django.db import migrations, models
 from django.core.exceptions import FieldDoesNotExist
+from django.db import migrations, models
 
 BATCH_SIZE = 500
 
